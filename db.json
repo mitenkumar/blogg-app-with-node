@@ -1,0 +1,240 @@
+{
+  "employee": [
+    {
+      "name": "hey i m admiaasaww",
+      "email": "aasasqqqqqqaaaa",
+      "password": "saaaas",
+      "userId": 3,
+      "id": 21
+    },
+    {
+      "name": "zz11a",
+      "email": "zz",
+      "password": "zzzaaaa",
+      "userId": 2,
+      "id": 42
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "aaa",
+      "userId": 2,
+      "id": 47
+    },
+    {
+      "name": "",
+      "email": "aaaa",
+      "password": "",
+      "userId": 2,
+      "id": 48
+    },
+    {
+      "name": "miten",
+      "email": "sdffgh@fhkjgjh",
+      "password": "",
+      "userId": 3,
+      "id": 58
+    },
+    {
+      "name": "miten",
+      "email": "sdffgh@fhkjgjh",
+      "password": "1",
+      "userId": 3,
+      "id": 59
+    },
+    {
+      "name": "mitenaa",
+      "email": "sdffgh@fhkjgjh",
+      "password": "11",
+      "userId": 3,
+      "id": 60
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "userId": 3,
+      "id": 61
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "sda",
+      "userId": 2,
+      "id": 68
+    },
+    {
+      "name": "sada",
+      "email": "asda",
+      "password": "asdas",
+      "userId": 1,
+      "id": 72
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "userId": 1,
+      "id": 73
+    },
+    {
+      "name": "miten",
+      "email": "sdffgh@fhkjgjh",
+      "password": "aa",
+      "userId": 14,
+      "id": 74
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "userId": 1,
+      "id": 75
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "userId": 1,
+      "id": 76
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "userId": 18,
+      "id": 77
+    }
+  ],
+  "User": [
+    {
+      "username": "soham",
+      "password": "aaa",
+      "email": "soham@dasd",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "username": "miten",
+      "password": "aaa",
+      "email": "soham@asdaaf",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "username": "adi",
+      "password": "aaa",
+      "email": "soham@dfssf",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "mitenkumar",
+      "password": "asd",
+      "email": "mitenpate1234@gmail.com",
+      "role": "admin",
+      "id": 4
+    },
+    {
+      "username": "Miten",
+      "email": "mitenkumar@fsadf",
+      "password": "aaa",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "username": "soham",
+      "email": "soham@sss",
+      "password": "aaaa",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "username": "zenil",
+      "email": "miten@asd",
+      "password": "aaa",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "username": "soham",
+      "email": "soham@dsa",
+      "password": "aaas",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "username": "jainsh",
+      "email": "mitenkumar@dsdf",
+      "password": "aaa",
+      "role": "user",
+      "id": 9
+    },
+    {
+      "username": "zenil",
+      "email": "miten@qqq",
+      "password": "mitem",
+      "role": "user",
+      "id": 10
+    },
+    {
+      "username": "dv",
+      "email": "miten@qqq",
+      "password": "aaaa",
+      "role": "user",
+      "id": 11
+    },
+    {
+      "username": "akhilesh",
+      "email": "soham@qqq",
+      "password": "miten",
+      "role": "user",
+      "id": 12
+    },
+    {
+      "username": "dsfg",
+      "email": "soham@wqw",
+      "password": "aaa",
+      "role": "user",
+      "id": 13
+    },
+    {
+      "username": "soham",
+      "email": "miten@wsf",
+      "password": "soham",
+      "role": "user",
+      "id": 14
+    },
+    {
+      "username": "soham",
+      "email": "miten2SAD@sdfsfg",
+      "password": "aaa",
+      "role": "user",
+      "id": 15
+    },
+    {
+      "username": "soham",
+      "email": "miten@qqq",
+      "password": "qqqq",
+      "role": "user",
+      "id": 16
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
