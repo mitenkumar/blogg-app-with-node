@@ -3,7 +3,7 @@ import axios from "axios";
 
 const Users = (props) => {
   const [state, setState] = useState([]);
-  const reloade = useState(true);
+  const [reloade,setrelode] = useState(true);
 
   console.log(props.password);
 
@@ -11,6 +11,7 @@ const Users = (props) => {
     axios.get("http://localhost:8000/User").then((response) => {
       //   console.log(response['data']);
       setState([...response["data"]]);
+      // setrelode(!reloade)
     });
   }, [reloade]);
 
